@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hd-photo-converter.github.io/sitemap.xml
