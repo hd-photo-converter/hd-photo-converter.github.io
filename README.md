@@ -8,4 +8,5 @@ Upscale any photo to HD or 4K, clean up noise and export as JPG or transparent P
 Available in: English, Español, Português, Deutsch, Français, Italiano, 日本語, 한국어, 中文, Русский, Bahasa Indonesia, Türkçe, Tiếng Việt
 
 
+
 _Last reviewed: 2026-09-22_
